@@ -1,0 +1,16 @@
+schema_version = "1.0.0"
+
+
+id = "so_retro"
+version = "1.0.0"
+name = "SoRetro"
+tagline = "quite the nostalgic theme"
+maintainer = "Strawberiie Orea <ihateeverythingomg6@gmail.com>"
+
+type = "theme"
+
+blender_version_min = "4.2.0"
+
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
